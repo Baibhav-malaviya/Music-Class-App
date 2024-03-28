@@ -1,0 +1,161 @@
+{
+	"courses": [
+		{
+			"id": 0,
+			"title": "Piano for Beginners",
+			"slug": "piano-for-beginners",
+			"description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+			"price": 109.99,
+			"instructor": "Jane Smith",
+			"isFeatured": false
+		},
+		{
+			"id": 1,
+			"title": "Guitar Basics",
+			"slug": "guitar-basics",
+			"description": "Learn the fundamentals of playing the guitar with easy-to-follow lessons.",
+			"price": 89.99,
+			"instructor": "John Doe",
+			"isFeatured": true
+		},
+		{
+			"id": 2,
+			"title": "Violin Masterclass",
+			"slug": "violin-masterclass",
+			"description": "Take your violin skills to the next level with advanced techniques and expert guidance.",
+			"price": 129.99,
+			"instructor": "Emily Johnson",
+			"isFeatured": false
+		},
+		{
+			"id": 3,
+			"title": "Singing 101",
+			"slug": "singing-101",
+			"description": "Discover your voice and learn the basics of singing with confidence.",
+			"price": 99.99,
+			"instructor": "Michael Brown",
+			"isFeatured": true
+		},
+		{
+			"id": 4,
+			"title": "Drums Crash Course",
+			"slug": "drums-crash-course",
+			"description": "Get started with drumming essentials and build a strong foundation for playing the drums.",
+			"price": 79.99,
+			"instructor": "Sarah Wilson",
+			"isFeatured": false
+		},
+		{
+			"id": 5,
+			"title": "Songwriting Workshop",
+			"slug": "songwriting-workshop",
+			"description": "Unlock your creativity and learn the art of songwriting from experienced songwriters.",
+			"price": 119.99,
+			"instructor": "David Martinez",
+			"isFeatured": true
+		},
+		{
+			"id": 6,
+			"title": "Music Theory Fundamentals",
+			"slug": "music-theory-fundamentals",
+			"description": "Master the basics of music theory and enhance your understanding of musical concepts.",
+			"price": 69.99,
+			"instructor": "Jessica Lee",
+			"isFeatured": false
+		},
+		{
+			"id": 7,
+			"title": "Keyboard Essentials",
+			"slug": "keyboard-essentials",
+			"description": "Learn essential keyboard techniques and play your favorite tunes with ease.",
+			"price": 109.99,
+			"instructor": "Daniel Smith",
+			"isFeatured": true
+		},
+		{
+			"id": 8,
+			"title": "Bass Guitar Mastery",
+			"slug": "bass-guitar-mastery",
+			"description": "Become a proficient bass guitarist with comprehensive lessons and practical exercises.",
+			"price": 139.99,
+			"instructor": "Olivia Taylor",
+			"isFeatured": false
+		},
+		{
+			"id": 9,
+			"title": "Flute for All",
+			"slug": "flute-for-all",
+			"description": "Learn to play the flute regardless of your skill level, from beginner to advanced.",
+			"price": 99.99,
+			"instructor": "Matthew Wilson",
+			"isFeatured": true
+		},
+		{
+			"id": 10,
+			"title": "Music Production Masterclass",
+			"slug": "music-production-masterclass",
+			"description": "Learn the ins and outs of music production, from recording to mixing and mastering.",
+			"price": 149.99,
+			"instructor": "Alex Turner",
+			"isFeatured": true
+		},
+		{
+			"id": 11,
+			"title": "Harmonica Basics",
+			"slug": "harmonica-basics",
+			"description": "Discover the basics of playing the harmonica and explore various styles and techniques.",
+			"price": 59.99,
+			"instructor": "Sophia Davis",
+			"isFeatured": false
+		},
+		{
+			"id": 12,
+			"title": "Ukulele Crash Course",
+			"slug": "ukulele-crash-course",
+			"description": "Get started with the ukulele and learn to play popular songs in no time.",
+			"price": 79.99,
+			"instructor": "Ryan Johnson",
+			"isFeatured": true
+		},
+		{
+			"id": 13,
+			"title": "Music History Journey",
+			"slug": "music-history-journey",
+			"description": "Explore the rich history of music from ancient times to modern-day genres.",
+			"price": 89.99,
+			"instructor": "Emma White",
+			"isFeatured": false
+		},
+		{
+			"id": 14,
+			"title": "Electronic Music Production",
+			"slug": "electronic-music-production",
+			"description": "Dive into the world of electronic music and create your own beats and tracks.",
+			"price": 129.99,
+			"instructor": "Max Anderson",
+			"isFeatured": true
+		}
+	],
+	"musicSchoolContent": [
+		{
+			"title": "History of Jazz",
+			"description": "Explore the origins and evolution of jazz music, from its roots in African American communities to its global influence today."
+		},
+		{
+			"title": "Classical Composers",
+			"description": "Learn about the great composers of classical music such as Bach, Mozart, and Beethoven, and their lasting impact on music history."
+		},
+		{
+			"title": "Introduction to Music Theory",
+			"description": "Discover the fundamental principles of music theory, including notation, scales, chords, and harmony, essential for understanding music composition."
+		},
+		{
+			"title": "The Art of Songwriting",
+			"description": "Delve into the craft of songwriting, from lyrics and melody to song structure and arrangement, and learn how to express yourself through music."
+		},
+		{
+			"title": "World Music Traditions",
+			"description": "Explore the diverse musical traditions from around the world, from Indian classical music to West African drumming, and gain insights into different cultural expressions."
+		}
+	]
+}
